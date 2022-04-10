@@ -1,0 +1,12 @@
+{
+  "name": "message-rpc",
+  "version": "0.0.1",
+  "description": "轻量级 RPC 实现",
+  "license": "MIT",
+  "scripts": {},
+  "main": "src/index.ts",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
+}
